@@ -1,4 +1,4 @@
-# MCA-question-papers
+# VIT MCA-question-papers
 
 **FALL SEMESTER SUBJECTS**
 
